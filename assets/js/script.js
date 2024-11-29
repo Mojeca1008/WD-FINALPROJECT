@@ -8,5 +8,5 @@ document.addEventListener('DOMContentLoaded', () => {
         link.addEventListener('mouseout', () => {
             link.style.tr  ansform = 'scale(1)';
         });
-    });
+    }); 
 });
