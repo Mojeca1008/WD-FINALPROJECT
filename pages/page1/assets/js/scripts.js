@@ -9,4 +9,4 @@ document.addEventListener('DOMContentLoaded', () => {
             link.style.transform = 'scale(1)';
         });
     });
-});
+});  

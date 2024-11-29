@@ -14,7 +14,7 @@ header {
     text-align: center;
 }
 nav {
-    display: flex;
+    display: flex;     
     justify-content: center;
     background-color: rgba(68, 68, 68, 0.8); 
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
