@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', () => {
             link.style.transition = 'transform 0.3s';
         });     
         link.addEventListener('mouseout', () => {
-            link.style.transform = 'scale(1)';
+            link.style.tr  ansform = 'scale(1)';
         });
     });
 });
