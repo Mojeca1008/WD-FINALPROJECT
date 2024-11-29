@@ -9,8 +9,8 @@ document.addEventListener('DOMContentLoaded', () => {
             link.style.transform = 'scale(1)';
         });
     });
-});   
-   
+});
+
 function showForm(productName) {
     const formSection = document.getElementById('order-form');
     const productInput = document.getElementById('product');
