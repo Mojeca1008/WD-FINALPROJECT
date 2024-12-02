@@ -9,18 +9,18 @@
     <img src="./assets/img/Digital_M_Logo_With_Typo__1__page-0001-removebg-preview.png" alt="Nyebe" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Title</h3>
+  <h3 align="center">MOJECA-FINAL PROJECT</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Short Description. (Optional)
+  Hello this is digital m and representing a Final Project about website in Perfume. In ths website representing a Dior Sauvage perfume.
 </div>
 
 <br />
 
 <!-- TODO: Change the zyx-0314 into your github username  -->
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
-![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WD-Template-Project)
+![](https://visit-counter.vercel.app/counter.png?page=Mojeca1008/WD-Template-Project)
 
 [![wakatime](https://wakatime.com/badge/user/9232960d-fd03-45c2-8ad5-9ce544ba12bf/project/75095e11-d680-4052-a98e-b7332348e08f.svg)](https://wakatime.com/badge/user/9232960d-fd03-45c2-8ad5-9ce544ba12bf/project/75095e11-d680-4052-a98e-b7332348e08f)
 
@@ -38,10 +38,12 @@
       <ol>
         <li>
           <a href="#key-components">Key Components</a>
-        </li>
+        </li> 
+        Multipage Website
         <li>
           <a href="#technology">Technology</a>
         </li>
+        CSS HTML JAVASCRIPT
       </ol>
     </li>
     <li>
