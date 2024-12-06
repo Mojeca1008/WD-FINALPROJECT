@@ -64,13 +64,13 @@
 Description of the project in details.
 
 Guiding Question:
-**- What is the project?**
+- What is the project?<br>
 A luxury website for Dior Perfume showcasing their fragrance collections and brand story.
-**- Whats the purpose?**
+- Whats the purpose?<br>
 To promote Dior's elegance and artistry in perfumes while offering an immersive user experience.
-**- What are key components?**
+- What are key components?<br>
 The key components of this website include multiple pages featuring the Home, About, Contact, and School History sections.
-**- What technology used and how it is used?**
+- What technology used and how it is used?<br>
 HTML/CSS: For structure and luxury-focused design.
 JavaScript: Enhancing interactivity and animations.
 
