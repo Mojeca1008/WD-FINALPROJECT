@@ -126,4 +126,4 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| DIOR | To showcase and sell Dior's luxurious perfumes while reflecting the brand's elegance and artistry. | trykolang.com |
+| DIOR | To showcase and sell Dior's luxurious perfumes while reflecting the brand's elegance and artistry. | https://mojeca1008.github.io/WD-FINALPROJECT/ |
