@@ -6,14 +6,14 @@
 <div align="center">
   <a href="https://github.com/zyx-0314/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/Digital_M_Logo_With_Typo__1__page-0001-removebg-preview.png" alt="Nyebe" width="130" height="100">
+    <img src="./assets/img/image-removebg-preview (5).png" alt="Nyebe" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">MOJECA-FINAL PROJECT</h3>
+  <h3 align="center">DIOR</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Hello this is digital m and representing a Final Project about website in Perfume. In ths website representing a Dior Sauvage perfume.
+  Discover the world of Dior Perfume, where timeless elegance meets the art of fragrance. Each scent is a masterpiece, crafted to evoke emotion and embody sophistication. From floral bouquets to bold, sensual notes, Dior Perfume offers a collection that celebrates individuality and grace. Let the exquisite aroma transport you to a realm of beauty and refinement.
 </div>
 
 <br />
@@ -64,10 +64,15 @@
 Description of the project in details.
 
 Guiding Question:
-- What is the project
-- Whats the purpose
-- What are key components
-- What technology used and how it is used
+**- What is the project?**
+A luxury website for Dior Perfume showcasing their fragrance collections and brand story.
+**- Whats the purpose?**
+To promote Dior's elegance and artistry in perfumes while offering an immersive user experience.
+**- What are key components?**
+The key components of this website include multiple pages featuring the Home, About, Contact, and School History sections.
+**- What technology used and how it is used?**
+HTML/CSS: For structure and luxury-focused design.
+JavaScript: Enhancing interactivity and animations.
 
 ### Key Components
 <!-- TODO: List of Key Components -->
@@ -121,4 +126,4 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| DIOR | To showcase and sell Dior's luxurious perfumes while reflecting the brand's elegance and artistry. | trykolang.com |
